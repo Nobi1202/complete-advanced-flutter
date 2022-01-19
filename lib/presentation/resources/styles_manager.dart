@@ -49,3 +49,13 @@ TextStyle getMediumStyle(
   return _getTextStyle(
       fontSize, FontConstants.fontFamily, FontWeightManager.medium, color);
 }
+
+
+
+
+
+
+
+
+
+
